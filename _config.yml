@@ -1,5 +1,0 @@
-include: [".well-known"]
-
-repository_mapping:
-  - glob: "**/*.pem"
-    media_type: "text/plain"
